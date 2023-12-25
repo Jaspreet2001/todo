@@ -1,11 +1,2 @@
-## Firebase Todo List
+Uploading bandicam 2023-12-25 16-47-35-138.mp4…
 
-**Version 1.0.0** 
-
-Description:
-The user will be able to add a todo, create, delete, and update.
-
-
-## License & copyright
-
-© Jay B. Crisostomo
